@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 취미 : 누워있기
 
 <!--
 **sseunghyun9/sseunghyun9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
